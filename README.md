@@ -1,4 +1,8 @@
-## estudante de escola publica, conta dedicada a aula de pensamento computacional
+## Estudante de escola publica, conta dedicada a aula de pensamento computacional.
+Gosto de desenhar, jogar, ler e ouvir música
+Não sou bom com coding
+Apreciador dos frascos e dos potes
+
 
 <!--
 **shinscara/shinscara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
