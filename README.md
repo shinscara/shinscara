@@ -1,7 +1,7 @@
 ## Estudante de escola publica, conta dedicada a aula de pensamento computacional.
-Gosto de desenhar, jogar, ler e ouvir música
-Não sou bom com coding
-Apreciador dos frascos e dos potes
+-Gosto de desenhar, jogar, ler e ouvir música
+-Não sou bom com coding
+-Apreciador dos frascos e dos potes
 
 
 <!--
