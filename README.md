@@ -1,4 +1,4 @@
-## ₍^ >ヮ<^₎
+## estudante de escola publica, conta dedicada a aula de pensamento computacional
 
 <!--
 **shinscara/shinscara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
